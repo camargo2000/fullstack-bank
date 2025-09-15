@@ -39,7 +39,7 @@ export default function TransactionsList({
           break;
 
         case StatusCodes.UNAUTHORIZED:
-          setErrorMessage('Seu login expirou');
+          setErrorMessage('Seu login ');
           break;
 
         default:
