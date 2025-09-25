@@ -16,16 +16,14 @@ Full stack digital wallet application developed in Next.js and Node.js with Type
 <details>
   <summary markdown="span"><strong>:brazil: Português</strong></summary><br />
 
-Aplicação full stack dockerizada de carteira digital desenvolvida em Next.js e Node.js com TypeScript.
-<br />
 </details>
 
-## :man_technologist: Developed Skills//Habilidades desenvolvidas
+
 
 <details>
   <summary markdown="span"><strong>:us: English</strong></summary><br />
 
-* Develop a frontend application with the Netx.js framework and TypeScript
+* Develop a frontend application with the next.js framework and TypeScript
 * Use Sass and CSS Modules for frontend styling
 * Develop a RESTful API in Node.js with Express.js and TypeScript
 * Use an ORM
