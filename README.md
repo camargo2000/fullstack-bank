@@ -23,14 +23,14 @@ Full stack digital wallet application developed in Next.js and Node.js with Type
 <details>
   <summary markdown="span"><strong>:us: English</strong></summary><br />
 
-* Develop a frontend application with the next.js framework and TypeScript
+* Develop a frontend application with the Next.js framework and TypeScript
 * Use Sass and CSS Modules for frontend styling
 * Develop a RESTful API in Node.js with Express.js and TypeScript
 * Use an ORM
 * Use a PostgreSQL database
 * Document the API with Open API and the Swagger UI framework
 * Implement backend integration tests using Mocha.js, Chai.js and Sinon.js with 100% coverage
-* implement E2E tests with the Cypress framework in conjunction with the Testing Library
+* Implement E2E tests with the Cypress framework in conjunction with the Testing Library
 * Dockerize the application using Docker Compose
 <br />
 </details>
@@ -38,14 +38,14 @@ Full stack digital wallet application developed in Next.js and Node.js with Type
 <details>
   <summary markdown="span"><strong>:brazil: Português</strong></summary><br />
 
-* Desenvolver uma aplicação frontend com o framework Netx.js e TypeScript
+* Desenvolver uma aplicação frontend com o framework Next.js e TypeScript
 * Utilizar Sass e CSS Modules para a estilização do frontend
 * Desenvolver uma API RESTful em Node.js com Express.js e TypeScript
 * Utilizar um ORM
 * Utilizar um banco de dados PostgreSQL
 * Documentar a API com Open API e o framework Swagger UI
 * Implementar testes de integração no backend utilizando Mocha.js, Chai.js e Sinon.js com 100% de cobertura
-* mplementar testes E2E com o framework Cypress em conjunto com a Testing Library
+* Implementar testes E2E com o framework Cypress em conjunto com a Testing Library
 * Dockerizar a aplicação utilizando Docker Compose
 <br />
 </details>
@@ -83,7 +83,7 @@ Full stack digital wallet application developed in Next.js and Node.js with Type
 * Node.js
 * Express.js
 * Sequelize.js
-* PortgreSQL
+* PostgreSQL
 * Swagger UI
 * Mocha.js
 * Chai.js
@@ -152,7 +152,7 @@ Executando o comando acima, será criada uma rede de três containers:
 
 * ng_frontend - mapeado na porta 3000
 * ng_backend - mapeado na porta 3001
-* ng_db - mapeado na pa porta 3002
+* ng_db - mapeado na porta 3002
 
 Se tratam da aplicação frontend, backend e o banco de dados, respectivamente. Depois que eles estiverem rodando, basta acessar o endereço <http://localhost:3000> no seu navegador para utilizar a aplicação.
 
@@ -193,7 +193,7 @@ Com a aplicação em execução, basta acessar o endereço <http://localhost:300
 I've implemented backend integration tests with 100% coverage. To check their result, just run the command below in the project root directory:
 
 ```sh
-npm run test: integration
+npm run test:integration
 ```
 
 **Note:** to run the integration tests, it is not necessary for the application to be running, as the interaction with the database is mocked and the tests start an instance of the API before being started.
@@ -268,7 +268,7 @@ npm run test:e2e
 <details>
   <summary markdown="span"><strong>:us: English</strong></summary><br />
 
-Run the command below in the project root directory tp run all integration and E2E tests in sequence in your terminal:
+Run the command below in the project root directory to run all integration and E2E tests in sequence in your terminal:
 
 ```sh
 npm run test
@@ -281,7 +281,7 @@ npm run test
 <details>
   <summary markdown="span"><strong>:brazil: Português</strong></summary><br />
 
-Rode o comando abaixo na raiz do projeto para rodar todos os testes de integração e E2d em sequência no terminal:
+Rode o comando abaixo na raiz do projeto para rodar todos os testes de integração e E2E em sequência no terminal:
 
 ```sh
 npm run test
@@ -296,4 +296,4 @@ npm run test
 ![Login - mobile](./screenshots/login-mobile.png)
 ![Dashboard - mobile](./screenshots/dashboard-mobile.png)
 
-![Dashboard](./screenshots//dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
