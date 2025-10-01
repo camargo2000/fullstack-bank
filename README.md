@@ -7,7 +7,7 @@
 <details>
   <summary markdown="span"><strong>:us: English</strong></summary><br />
 
-Full stack digital wallet application developed in Next.js and Node.js with TypeScript and built with Docker.
+Full stack digital wallet application developed in Next.js and Node.js with TypeScript and built with Docker...
 
 **Note:** the application is currently only in Brazilian Portuguese, I want to add an English translation soon.
 <br />
